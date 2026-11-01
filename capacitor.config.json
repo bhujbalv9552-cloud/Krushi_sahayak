@@ -1,0 +1,8 @@
+{
+  "appId": "in.krishisahayak.app",
+  "appName": "Krishi Sahayak",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
